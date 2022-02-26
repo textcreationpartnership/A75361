@@ -1,0 +1,170 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Animadversions on the last speech of William Viscount Stafford who was beheaded on Tower-Hill for high treason in conspiring the death of the king, &amp;c. on Wednesday, December 29th, 1680.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75361</idno>
+            <idno type="STC">Wing A3197A</idno>
+            <idno type="STC">ESTC R42644</idno>
+            <idno type="EEBO-CITATION">38875518</idno>
+            <idno type="OCLC">ocm 38875518</idno>
+            <idno type="VID">152171</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75361)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152171)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2281:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Animadversions on the last speech of William Viscount Stafford who was beheaded on Tower-Hill for high treason in conspiring the death of the king, &amp;c. on Wednesday, December 29th, 1680.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing (2nd ed.).</note>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of original in: Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Stafford, William Howard, --  Viscount, 1614-1680.</term>
+               <term>Popish Plot, 1678.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:152171:1" rendition="simple:additions"/>
+            <head>ANIMADVERSIONS ON THE LAST SPEECH OF William Viſcount Stafford WHO WAS BEHEADED ON TOWER-HILL FOR HIGH TREASON In Conſpiring the Death of the King, <hi>&amp;c.</hi> on <hi>Wedneſday, December</hi> 29th. 1680.</head>
+            <p>
+               <hi>DYing mens words</hi> are generally much regarded: and <hi>Proteſtants</hi> who make Conſcience of their own words, and count it a Horrid Crime to ſpeak otherwiſe than think when they are dying, may be ready to take the meaſures of others by themſelves, and to Judge thoſe guilt<g ref="char:EOLhyphen"/>leſs, who when they are dying, aſſert their Innocency with the higheſt aſſeverations: But they will find very great reaſon to alter their opinion, if they take but due notice how very cleer
+<pb n="2" facs="tcp:152171:2"/>the Evidence was by which this <hi>miſerable Lord</hi> was caſt, and if withal they do but fully underſtand the Popiſh Principles, which deſtroy all conſidence in their words living and dy<g ref="char:EOLhyphen"/>ing.</p>
+            <p>Fully to convince <hi>Proteſtants,</hi> my deſign ſhall be to prove that by the common Doctrine receiv'd amongſt them, they are furniſhed with expedients, whereby they may deny what is moſt true, and affirm what is moſt notoriouſly, falſe, and that with the moſt <hi>ſolmn Oaths</hi> or <hi>dreadfulleſt Imprecations,</hi> and yet neither lie nor be forſworn, nor any way ſin in the leaſt de<g ref="char:EOLhyphen"/>gree, <hi>and this they may do even when dying,</hi> Their main artifice is that which they call <hi>Mental Equivocation,</hi> becauſe of a double ſenſe in ſome propoſition partly expreſt and partly reſerv'd in their minds, ſo that a thing may be true in their own ſenſe by vertue of this <hi>Mental Reſervation,</hi> but falſe in the ſenſe of all that hear it. The uſe of this is allowed by all ſorts of <hi>Papiſts,</hi> and perticularly the <hi>Jeſuits,</hi> it is an Art more dear to them, and oftener uſed by them then any other fraudulent art whatever, becauſe this fraud is more eaſie, leſs diſcernable, and the ad<g ref="char:EOLhyphen"/>vantage of it admirable, and therefore no wonder that they do not decline it at Trials in Courts of Judicature. No nor when they are dying and approaching the Tribunial of the <hi>Great Judge,</hi> tho truth and ſincerity is then, if ever, neceſſary. But this our <hi>Poor deceaſed Lord</hi> hath more pertinent inſtances of thoſe of his Principles and Circumſtances to encourage him with <hi>Oaths and Aſſeverations</hi> to aſſert a falſhood and deny the Truth.</p>
+            <p>To inſtance in their Practiſes, Father <hi>Garnet, Whitebreads Pre<g ref="char:EOLhyphen"/>deceſſor in Office and Practices,</hi> and one concerned in the Gun<g ref="char:EOLhyphen"/>powder Plot was notoriouſly guilty herein, for he denied that, By <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>olemn Oat<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s and Imprecations before the Lords Commiſſion<g ref="char:EOLhyphen"/>ers, which was afterwards proved upon him, and his only Plea for himſelf was this Doctrine of <hi>Equivocation.</hi>
+            </p>
+            <p>So likewiſe <hi>Treſham</hi> another of the <hi>Powder Plotters</hi> ſaid, that <hi>Garnet</hi> was privy to the Treaſon, but afterwards juſt before his death took it upon his Salvation that he had accuſed <hi>Garnet</hi> wrongfully, and that he had not ſeen him of ſixteen years be<g ref="char:EOLhyphen"/>fore, and ſo dyed but this his <hi>Proteſtation and Oath</hi> was ſoon after proved notoriouſly falſe, yea <hi>Garnet</hi> himſelf confeſſed that within ſixteen years he had ſeen him many times, where<g ref="char:EOLhyphen"/>upon being asked what be thought of <hi>Treſhams dying Oath</hi> and <hi>Proteſtation,</hi> he anſwered <hi>Poſſibly Treſham meant to Equi<g ref="char:EOLhyphen"/>vocate.</hi>
+            </p>
+            <p>And this very Doctrine of Equivocation was juſtified by <hi>Garnet</hi>
+               <pb n="3" facs="tcp:152171:2"/>in a Manuſcript left by him, which was communicated by King <hi>James,</hi> to the famous <hi>Cauſabon.</hi>
+            </p>
+            <p>Both the ſtories before named may be found at large in the Hiſtory of the Gun-powder Treaſon, and in the Proceedings againſt thoſe Traytors.</p>
+            <p>By this we ſee, that theſe things have been practiſed of old, and juſtified by their Teachers as lawful even at the hour of death, therefore we need not be ſurpriz'd to find any Papiſt uſing this art in his <hi>Laſt Speech.</hi>
+            </p>
+            <p>But their Principles are further conſiderable, of which take ſome Account.</p>
+            <p>Firſt <hi>by their Doctrine,</hi> they may lawfuly ſay what is falſe making uſe of a <hi>mental Reſervation,</hi> and tho it be a groſs un<g ref="char:EOLhyphen"/>truth in it ſelf as expreſt, and they know it to be ſo, and uſe it with an intent to deceive others, yet they do not reckon it to be <hi>a lie,</hi> and conſequently <hi>no ſin,</hi> and ſo need not fear u<g ref="char:EOLhyphen"/>ſing it when going out of the world. This is affirmed in diſtinct Treatiſes of this ſubject by <hi>Father Perſons, Naver, Sanche</hi> and o<g ref="char:EOLhyphen"/>thers.</p>
+            <p>And here let the World be Judge what regard is due to the words of thoſe, tho they be the words of dying men, whoſe Doctrine aſſures the moſt guilty perſons in the world, that if they perſiſt in a falſe deſtince of their innocency, even unto death, yet by this method they teach them it will be no <hi>lie</hi> at all, nor any ſin.</p>
+            <p>This may be enough to ſatisfie as concerning the expreſſions whereby this Lord diſclaims his guilt which are not a few, as in the firſt Paragraph of his Speech, I do moſt truly in the preſence of the Eternall, Omnipotent, and All-knowing God, Proteſt upon my Salvation, that I am as Innocent as it is poſſible for any Man to be, ſo much as in a thought of the Crimes laid to my charge. [The old canting expreſ<g ref="char:EOLhyphen"/>ſion, <hi>as Innocent as the Child unborn,</hi> is here varied.] In the third Paragraph, Since my long impriſonment <hi>I</hi> have conſidered often what could be the Original cauſe of my being thus accuſed, ſince I knew my ſelf not culpable, ſo much as in a thought; and I
+<pb n="4" facs="tcp:152171:3"/>cannot believe it to be upon any other. Account then my being of the Church of <hi>Rome,</hi> In the forth Paragraph. To my great and unſpeakable grief <hi>I</hi> have offended God in many things by many great Offences; but, <hi>I</hi> give him moſt humble thanks, not in any of thoſe Crimes of which <hi>I</hi> was accuſed. In the ſixth Paragraph. And if <hi>I</hi> had known of any Treaſon, and ſhould thus deny it, as <hi>I</hi> do now up<g ref="char:EOLhyphen"/>on my Salvation at this time, <hi>I</hi> ſhould have no hope of Salvation. In the eleventh Paragraph. <hi>I</hi> do now upon my Death and Salvation aver that <hi>I</hi> never ſpoke one word either unto <hi>Oats</hi> or <hi>Turbervil,</hi> or, to my knowledge, ever ſaw them until my Try<g ref="char:EOLhyphen"/>al, and for <hi>Dugdale I</hi> never ſpoke to him of any thing but about a Foot-boy, or Foot-man, or Foot<g ref="char:EOLhyphen"/>race, and never was then alone with him. In the twelfth and thirteenth Paragraphs. <hi>I</hi> hope <hi>I</hi> have made it appear that <hi>I</hi> have ſome Conſcience, for if <hi>I</hi> had none certainly <hi>I</hi> would have ſaved my life by ac<g ref="char:EOLhyphen"/>knowledging my ſelf guilty; which <hi>I</hi> could have done, tho <hi>I</hi> know <hi>I</hi> am not in the leaſt guilty, and <hi>I</hi> having ſome Conſcience make very ill uſe of it; for <hi>I</hi> throw my ſelf into Eternal pain by thus plainly and conſtantly denying thus at my Death, the knowledg of what <hi>I</hi> am accuſed of, in the leaſt <hi>I</hi> have ſaid thus much in diſcharge of my Conſcience, and do aver upon my Salvation what <hi>I</hi> have ſaid to be really true. And in the very laſt Paragraph. <hi>I</hi> do with my laſt Breath truly aſſert my Innocency, and hope the Omnipotent All-ſee<g ref="char:EOLhyphen"/>ing, Juſt God will deal with me accordingly. Let the Reader judge how true theſe Proteſtations of his In<g ref="char:EOLhyphen"/>nocency are like to be, after he hath conſidered <hi>the fairneſs of his Tryal, the clearneſs and fulneſs of the Evidence againſt him, and their Doctrines, which thus allow them to go out of the world with Lies in their mouths.</hi>
+            </p>
+            <p>Secondly, They maintain that when they may lawfully ſpeak what is falſe they may lawfully ſwear it; thus Father <hi>Parſons, Leſ<g ref="char:EOLhyphen"/>ſins Sanchez,</hi> and <hi>Jo. Sanctius.</hi>
+            </p>
+            <pb n="5" facs="tcp:152171:3"/>
+            <p>This is their Doctrine, whereby it is evident, that if a Perſon be Accuſed and Condemned for a Deſign to murther his Prince, though he deſign it as much as any Aſſaſſinate ever did, yet he may not only deny it, and yet <hi>not Lye,</hi> by vertue of a <hi>Mental Equivocation,</hi> but though he be as guilty as any Perſon that ever was condemned in the World, yet he may aſſert his Innocency with Oaths; and notwithſtanding, by this Art he may free him<g ref="char:EOLhyphen"/>ſelf <hi>from all Guilt of Perjury, and all other Sin.</hi> And this quite deſtroys their Credit as to all their <hi>Aſſeverations and Oaths,</hi> how many and horrid ſoever they be, when they think themſelves concerned to Equivocate.</p>
+            <p>He that would be believed againſt ſuch Evidence as convicted this <hi>Lord</hi> had need be a Man of more than ordinary Credit. But Men of his Lordſhips Principles are quite broke as to this, for their Credit is blaſted by their Doctrine.</p>
+            <p>Thirdly, They may uſe ſuch <hi>Mental Reſerves</hi> or <hi>Equivocations,</hi> when they are urged by others not to uſe any, or when themſelves profeſs and ſwear they uſe none; So <hi>De Secund. Bonacina Sanchez,</hi> and <hi>Fa. Parſons</hi> in his <hi>Treatiſe of Equivocations,</hi> approved by <hi>Gar<g ref="char:EOLhyphen"/>net</hi> and <hi>Blackwell:</hi> One paſſage whereof I will here give you. <hi>If</hi> (ſaith he) <hi>the Incompetent Judge ſhall further ask, whether you do not Equivocate, you may anſwer no, but with another Equivocation: if again ſuſpecting you he urges, whether this third time you do not Equi<g ref="char:EOLhyphen"/>vocate, then the third time alſo ſay no, but with another ſecret Equi<g ref="char:EOLhyphen"/>vocation; and ſo as often as he ſhall ask the like, likewiſe by Equivo<g ref="char:EOLhyphen"/>cating ſay you do not Equivocate.</hi>
+            </p>
+            <p>Fourthly, By their Doctrine they may Lawfully uſe ſuch <hi>Men<g ref="char:EOLhyphen"/>tal Reſerve</hi> or <hi>Equivocation,</hi> which in their Account makes their <hi>Speaking or Swearing falſly to be innocent.</hi> Thus <hi>Fillincius</hi> ſaith, <hi>That Equivocation in Rigour is no Lye nor Perjury.</hi> So <hi>Toleno, Equivoca<g ref="char:EOLhyphen"/>tion may be uſed, eſpecially when it is expedient to conceal a thing.</hi> So <hi>Bonacina, It is not</hi> (ſaith he) <hi>unlawful to Equivocate as often as any In<g ref="char:EOLhyphen"/>convenience or Injury is like to befall us by ſpeaking Plainly.</hi>
+            </p>
+            <p>Can therefore any Perſons be more highly concerned to keep any thing ſecret, than theſe Men are to conceal the <hi>Plot;</hi> both for the dangerous Conſequences of the Diſcovery, and the Advantage of concealing it? They cannot more effectually promote the <hi>Piot,</hi> than by perſwading us there is none: and ſo making us the more ſecure, they think hereby to ſtagger weak minded Proteſtants, who cannot think that any Chriſtian dares go out of the World with a Lye in his Mouth. They think alſo hereby to weaken the Credit of the Witneſſes, and to diſparage the Juſtice of the Nation. And Laſtly, his Lordſhip, and the reſt of the Plorters, executed before him, may think to die as Martyrs in the Account of the Papiſts, and as Innocent in the Judgment of many others. But on the other hand, if his <hi>Lordſhip,</hi> or thoſe executed before him, had
+<pb n="6" facs="tcp:152171:4"/>been ſo ingenuous to have confeſſed what they knew of this Hel<g ref="char:EOLhyphen"/>liſh Plot, they had broke the Neck of their own Deſign, which ſeems dearer to them than their Lives, or any other Concerns; they had encouraged others of the Conſpirators to have followed their Lea<g ref="char:EOLhyphen"/>ders herein, and ſo the Plot had been wholly diſſected, and Popery it ſelf in danger to be rendred odious to the whole Chriſtian World, and for ever hereafter to be abhorred and renounced by all that own the Chriſtian Name, as utterly repugnant to Chriſtianity, and to be abhorred by Mankind as that which bids Defiance to Hu<g ref="char:EOLhyphen"/>manity it ſelf.</p>
+            <p>Having thus ſufficiently anſwered thoſe Paſſages in his Speech that aſſert his Innocency, come we next to his falſe Commendation, and Character of their Church. In the third Paragraph (ſaith he) <hi>I have no reaſon to be aſhamed of my Religion, for it teacheth nothing but the right Worſhip of God, Obedi<g ref="char:EOLhyphen"/>ence to the King, and due Subordination to the Tem<g ref="char:EOLhyphen"/>poral Laws of the Kingdom. And I do ſubmit to all Articles of Faith believed and taught in the Catholick Church, believing them to be moſt conſonant with the Word of God. And whereas it hath ſo much and often been objected, that the Church holds that Sovereign Princes Excommunicated by the Pope, may by their Subjects be Depoſed and Murdered; as to the Murder of Princes. I have been taught as a matter of Faith, in the Catholick Faith that ſuch Doctrine is Diabo<g ref="char:EOLhyphen"/>lical Horrid and Deteſtable, and contrary to the Law of God Nature and Nations: and as ſuch from my heart I renounce and abominate it. As for the Do<g ref="char:EOLhyphen"/>ctrine of Depoſing of Princes. I know ſome Divines of the Catholick Church hold it, but as Able and Lear<g ref="char:EOLhyphen"/>ned as they have writ againſt it: but it was not preten<g ref="char:EOLhyphen"/>ded to be the Doctrine of the Church; that is any Point of Catholick Faith. Wherefore I do here in my Con<g ref="char:EOLhyphen"/>ſcience declare that it is my True and Real Iudgment that the ſame Doctrine of Depoſing Kings is contrary to the Fundamental Laws of this Kingdom, Injuri<g ref="char:EOLhyphen"/>ous to Soveraign Power; and conſequently would be in me, or any other of His Majeſty's Subjects Im<g ref="char:EOLhyphen"/>pious and Damnable.</hi> That their Church teacheth the con<g ref="char:EOLhyphen"/>trary to the right Worſhip of God, and Obedience to Kings is ve<g ref="char:EOLhyphen"/>ry eaſie to prove: But it is a Work that hath been ſo often done already, that here we ſhall wave it. To come then to the nice Point, <hi>viz.</hi> the <hi>King-killing Doctrine.</hi> This is a Charge upon them of ſo horrid a nature, that I do not wonder that they all uſe their utmoſt endeavours to perſwade the World that they hold no ſuch Doctrine. That <hi>Mariana</hi> held it, <hi>Gavan</hi> himſelf
+<pb n="7" facs="tcp:152171:4"/>owned: <hi>Sanctarellus</hi> his Book was a little more favourable to Kings than <hi>Mariana</hi>'s, and yet this was printed at <hi>Rome,</hi> and appro<g ref="char:EOLhyphen"/>ved by <hi>Mutius Vitelleſcus</hi> the General of the Jeſuits. <hi>Ribadinera, Scribanius</hi> under the name of <hi>Bonarſcius, Becanus, Oreſterus,</hi> do partly praiſe and partly defend <hi>Mariana.</hi> And wherein doth <hi>Ema<g ref="char:EOLhyphen"/>nuel Sa</hi> come ſhort of <hi>Mariana</hi> in that particular, or <hi>Becarus</hi> in his <hi>Engliſh Controverſies;</hi> which are approved of, not only by divers <hi>Biſhops,</hi> but by the Provincial Jeſuits of <hi>Portugal</hi> and <hi>Germany:</hi> Yea, a whole <hi>
+                  <g ref="char:V">Ʋ</g>niverſity</hi> approves of it. To which add <hi>Fa. Cam<g ref="char:EOLhyphen"/>pian,</hi> who may be in ſtead of all: he declares, <hi>That all the Jeſuits ſpread far and wide through the whole World have entred into a League to make away all Heretical Kings in any manner whatſoever; nor will they deſpair of effecting it ſo long as one Jeſuit remains in the World.</hi> In <hi>Epiſt. ad Concil. Reg. Angl. p.</hi> 22.</p>
+            <p>The <hi>Church</hi> of <hi>Rome</hi> doth declare, that the <hi>Pope</hi> hath power to depoſe <hi>Kings,</hi> eſpecially for Hereſie. This is not only the Opini<g ref="char:EOLhyphen"/>on of all ſorts of their Authors, but is eſpecially determined by their <hi>Popes,</hi> and the Decrees of <hi>General Councils.</hi> They do alſo declare, that <hi>Kings</hi> being Depoſed, any one may kill them, at leaſt by the <hi>Pope</hi>'s Order. For this we have the declared Senſe of the whole Body of the Jeſuits in <hi>France,</hi> [than whom none of the Society in any part of the World were more favourable to Kings.] in an Apology for their Doctrine on this Subject to <hi>Henry</hi> the Fourth; yet there they declare in the words of <hi>Valentia,</hi> conſo<g ref="char:EOLhyphen"/>nant to the Doctrine of <hi>Aquinas, Caletan, Sotus, Coveruvius, Salo<g ref="char:EOLhyphen"/>nius,</hi> and others; <hi>That a Tyrant, who has no Juſt Title, but uſurps Authority, may be killed by any one.</hi> Now there is none of them who have the uſe of Reaſon will deny, but a <hi>King</hi> depoſed by the <hi>Pope</hi> is ſuch a Tyrant, a meer Uſurper, without ſuch a juſt Title; and therefore they cannot deny but it is their Doctrine; That a <hi>King</hi> Depoſed by the <hi>Pope</hi> may be killed by any one.</p>
+            <p>In the Seventh and Sixteenth Paragraphs he prays for the King, acknowledging him. <hi>His Lawful King and Soveraign, and denying that any Power on Earth can Legally al<g ref="char:EOLhyphen"/>low him or any Body elſe to lift up a Hand againſt his Legal Authority and then Pra<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing for him that he may enjoy all Happineſs in this World, and the World to come,</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e would undoubtedly have it thought, that he had no deſign to kill the <hi>King,</hi> who can pray for his proſperous Reign. But it need not ſeem ſtrange that any of them ſhould Equivocate in their way of Praying, ſince their Church allows of plain Lyes in their publick Liturgies, which divers of their own Authors expreſs themſelves ſenſible of.</p>
+            <p>To give one inſtance of this in <hi>Fa. Garnet,</hi> he compoſed ſome Prayers for the good Succeſs of the <hi>Powder Plot,</hi> which he uſed amongſt his Party; and being charged with it, anſwered like ſuch a
+<pb n="8" facs="tcp:152171:5"/>Jeſuit: He ſaid, <hi>He made not thoſe Prayers with that meaning that the thing might fall out according to the mind of the Conſpirators, but rather croſs to their deſires; that ſo the Safety of King and King<g ref="char:EOLhyphen"/>dom might be provided for.</hi> So that when he prayed for the Ruin of the <hi>King</hi> and <hi>Kingdom,</hi> his meaning was that they might be pre<g ref="char:EOLhyphen"/>ſerved and proſper. So when any of this ſort of Men, I mean <hi>Romiſh Zealots,</hi> pray for the King's proſperous Reign, why may not their meaning be his utter Deſtruction? For this is altogether as likely as the other.</p>
+            <p>One thing is obſervable, that in his Prayer for the King he twice comes in with the word <hi>Legal.</hi> So in the ſixth Paragraph. <hi>He would diſcover if he knew of an Illegal Dangerous Plot.</hi> But the Queſtion will here be, what he means by <hi>Legal</hi> and <hi>Illegal.</hi> By their Principles, if the <hi>King</hi> be Excommunicated, his Authority is not <hi>Legal,</hi> and therefore the <hi>Plot</hi> againſt him not <hi>Illegal.</hi> This Artifice, though the thing be falſe in it ſelf, yet it may be innocently aſſerted by him.</p>
+            <p>His Temper at Death was none of the moſt Chriſtianlike, for he could not forbear [though he pretendedly forgave them] vil<g ref="char:EOLhyphen"/>lifying the Witneſſes againſt him, by calling them <hi>Perjured Fellows:</hi> But what better can be expected from ſuch Men. And he ſeems deſignedly to intimate that his Tryal was Illegal by this ſubtil Inſinuation: <hi>I ſhall ſay little to my Tryal; and whether it were all according to the known Law, I am too much a Party to ſay much of it: If it were not ſo, God forgive him or them that were the Cauſe or it.</hi> Certainly never Man had a more Honourable, Juſt and Legal Tryal, and conſequently leſs Cauſe for ſuch a Malicious Inſinuation.</p>
+            <p>To conclude, We have great reaſon to believe that this Speech was contrived for the promoting of their grand Plot, upon which, as a true Be-Jeſuited Zealot, his Heart was ſo much ſet [the Ca<g ref="char:EOLhyphen"/>tholick Intereſt being ſo deeply concerned in it,] that the thoughts of Death could not divert him. Now, if we are found ſo Weak and Facile as to believe theſe fraudulent Expreſſions of this Lord, and others that were Executed before him, againſt ſo much Ratio<g ref="char:EOLhyphen"/>nal Evidence, then their Work is in a manner done; and they will do more at their Deaths by putting out our Eyes, than they could in all their Lives. We cannot in Juſtice, Reaſon or Charity believe them againſt Such Evidence, who think they may Law<g ref="char:EOLhyphen"/>fully deceive us when dying, and apprehend it to be the great In<g ref="char:EOLhyphen"/>tereſt of their Cauſe ſo to do.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
